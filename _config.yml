@@ -1,0 +1,6 @@
+title: عالم الألعاب
+description: تجارب eFootball على الموبايل، لاعيبة مجانيين، تشكيلات وتحديات.
+lang: ar
+markdown: kramdown
+exclude:
+  - README.md
